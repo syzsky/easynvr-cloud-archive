@@ -1,0 +1,7 @@
+# 本地配置/凭据不入库
+config.conf
+*.conf.local
+*.key
+*_key
+*.log
+.traffic_history
