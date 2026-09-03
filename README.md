@@ -169,7 +169,7 @@ EasyNVR 实际录像路径形如 `r/easynvr_rec/<CH>/<CH>/<YYYYMMDD>/*.mp4`（�
 - 完整交付（含服务器/云盘选型 + 部署 + 回放验证 + 交付文档）：800 元起
 - 月度运维巡检（微信日报 + 磁盘/宕机告警）：99 元/月
 
-联系方式：YOUR_CONTACT_PLACEHOLDER（微信/邮箱/闲鱼链接，发布前替换）
+联系方式：QQ 327499531 / 邮箱 ld1689@163.com（请注明「EasyNVR 部署咨询」）
 
 ## License
 
