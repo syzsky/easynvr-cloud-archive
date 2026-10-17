@@ -1,7 +1,11 @@
 # 本地配置/凭据不入库
 config.conf
+open_client.json
+resource_token.json
 *.conf.local
 *.key
 *_key
 *.log
+*.bak
+__pycache__/
 .traffic_history
